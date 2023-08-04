@@ -1,5 +1,5 @@
 # Offline-Messenger
-Client-Server application for the computer networks course
+Client-Server application for the computer networks course.
 
 - C project for simulating a messenger application. Transfering messages between the clients and the server.
 
